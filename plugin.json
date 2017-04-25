@@ -1,14 +1,14 @@
 {
-    "ID": "7F7189F2F9344B3B947EAFE8A271E2C7", 
+    "ID": "7F7189F2F9344B3B947EAFE8A271E2C7",
     "ActionKeywords": [
         "postcss"
-    ], 
-    "Name": "PostCSS Search", 
-    "Description": "Search PostCSS plugin", 
-    "Author": "roose", 
-    "Version": "0.1.0", 
-    "Language": "executable", 
-    "Website": "https://github.com/roose/wox-postcss-search", 
-    "IcoPath": "Images\\PostCSS Search.png", 
+    ],
+    "Name": "PostCSS Search",
+    "Description": "Search PostCSS plugin",
+    "Author": "roose",
+    "Version": "0.1.1",
+    "Language": "executable",
+    "Website": "https://github.com/roose/wox-postcss-search",
+    "IcoPath": "Images\\PostCSS Search.png",
     "ExecuteFileName": "postcss.exe"
 }
